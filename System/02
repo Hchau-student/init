@@ -1,0 +1,3 @@
+#переименовать систему
+
+sudo hostname *desired_name*

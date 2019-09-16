@@ -1,0 +1,2 @@
+#широковещательный адрес
+ifconfig en0 | grep 'broadcast'

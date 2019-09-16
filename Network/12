@@ -1,0 +1,3 @@
+#IP, выданный DHCP
+
+ifconfig en0 | grep 'inet'

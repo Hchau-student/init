@@ -1,0 +1,5 @@
+#убиваем процессы и пользователя
+
+USER=${1}
+sudo killall -u $USER
+sudo userdel -f username

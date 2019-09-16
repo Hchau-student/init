@@ -1,0 +1,3 @@
+#файл с RSA ключами
+
+echo '~.ssh/authorised_keys'

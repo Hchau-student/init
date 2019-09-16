@@ -1,0 +1,3 @@
+#статус ssh сервиса
+
+sudo service ssh status

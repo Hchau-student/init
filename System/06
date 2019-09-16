@@ -1,0 +1,3 @@
+#перезапуск ssh
+
+sudo service sshd restart

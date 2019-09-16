@@ -1,0 +1,2 @@
+#файл с инфой о нашем DNS
+echo '/etc/resolv.conf'

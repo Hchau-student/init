@@ -1,0 +1,6 @@
+#внести новый адрес
+
+echo 'vi /etc/hosts
+46.19.122.85	intra.42.fr
+esc
+:wq'

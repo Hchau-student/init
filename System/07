@@ -1,0 +1,3 @@
+#PID sshd сервера
+
+lsof -i | grep 'sshd'

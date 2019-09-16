@@ -1,0 +1,2 @@
+#MAC адрес wi-fi адаптера
+networksetup -listallhardwareports | grep 'Wi-Fi' -A 2

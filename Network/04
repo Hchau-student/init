@@ -1,0 +1,3 @@
+#шлюз локальной сети
+
+netstat -nr | grep 'Gateway' -A 1

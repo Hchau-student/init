@@ -1,0 +1,3 @@
+#список служб с указанием типа служб
+
+systemctl list-units --type service
