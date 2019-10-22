@@ -3,3 +3,5 @@
 USER=${1}
 sudo killall -u $USER
 sudo userdel -f username
+
+#напиши bin bash!!!!
